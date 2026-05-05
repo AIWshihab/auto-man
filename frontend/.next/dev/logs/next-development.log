@@ -1,2 +1,0 @@
-{"timestamp":"00:27:44.002","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/user/Desktop/zero-trust-ai-gateway/frontend/app'"}
-{"timestamp":"00:27:44.006","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/user/Desktop/zero-trust-ai-gateway/frontend/app'"}
